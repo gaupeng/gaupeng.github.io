@@ -1,5 +1,10 @@
 .content{
+    vertical-align: center;
     background-color: black;
+}
+
+.innerbody{
+    margin: 0 auto;
 }
 
 .name{
