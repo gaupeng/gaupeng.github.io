@@ -1,1 +1,1 @@
-Profile & Blog Repository.
+Landing Page & Blog Repository.

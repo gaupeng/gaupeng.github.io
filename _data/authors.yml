@@ -1,0 +1,14 @@
+Gaurang Rao:
+  name: "Gaurang Rao"
+  avatar: "/assets/images/pp.jpg"
+  bio: "Often confused." # Note: Markdown is allowed
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "http://github.com/Gaupeng"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/gaurangrrao/"
+    # - label: "Resume"
+    #   icon: "far fa-file-alt"
+    #   url: "assets/docs/Resume.pdf"
