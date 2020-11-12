@@ -37,6 +37,10 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
 
 author: Gaurang Rao
 paginate: 4
