@@ -23,7 +23,7 @@ email: gaurang.r.rao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello,
   I'm a Computer Science & Engineering Student at PES University, Bangalore.
-  My current technical interests include Machine Learning and Data Science.
+  My current interests lie in Cloud Computing, Game Development and Investing.
   I love learning, and achieving the sense of accomplishment I attain from learning and implementing something new!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
