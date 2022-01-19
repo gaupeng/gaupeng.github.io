@@ -1,7 +1,7 @@
 Gaurang Rao:
   name: "Gaurang Rao"
   avatar: "/assets/images/pp.jpg"
-  bio: "Often confused." # Note: Markdown is allowed
+  bio: "Hungry to create." # Note: Markdown is allowed
   links:
     - label: "GitHub"
       icon: "fab fa-github"
@@ -9,6 +9,6 @@ Gaurang Rao:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/gaurangrrao/"
-    # - label: "Resume"
-    #   icon: "far fa-file-alt"
-    #   url: "assets/docs/Resume.pdf"
+    - label: "Twitter"
+      icon: "far fa-fw fa-twitter"
+      url: "https://twitter.com/gaupeng"
