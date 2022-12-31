@@ -1,7 +1,7 @@
 Gaurang Rao:
   name: "Gaurang Rao"
   avatar: "/assets/images/pp.jpg"
-  bio: "Hungry to create." # Note: Markdown is allowed
+  bio: "Hungry to create!" # Note: Markdown is allowed
   links:
     - label: "GitHub"
       icon: "fab fa-github"

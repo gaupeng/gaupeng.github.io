@@ -1,6 +1,6 @@
 .content {
   vertical-align: center;
-  background-color: black;
+  background-color: #f9f9f9;
 }
 
 .innerbody {
@@ -9,16 +9,16 @@
 }
 
 .name {
-  color: white;
-  font-family: "Quicksand", sans-serif;
+  color: black;
+  font-family: 'Quicksand', sans-serif;
   font-size: 55px;
   text-align: center;
 }
 
 .subhead {
-  color: white;
-  font-family: "Quicksand", sans-serif;
-  font-size: 20px;
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 22px;
   text-align: center;
 }
 
@@ -63,7 +63,8 @@
 }
 
 .button {
-  background-color: #f44336; /* Green */
+  background-color: #f44336;
+  /* Green */
   border-radius: 8px;
   color: white;
   padding: 15px 32px;

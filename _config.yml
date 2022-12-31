@@ -31,8 +31,10 @@ twitter_username: gaupeng
 github_username: Gaupeng
 
 # Build settings
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+remote_theme: mmistakes/minimal-mistakes
+masthead_title: "Home"
+repository: "gaupeng/gaupeng.github.io"
 
 plugins:
   - jekyll-feed
@@ -57,7 +59,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
       related: true
 
